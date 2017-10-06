@@ -4,6 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import be.pxl.computerstore.ComputerSystem;
 import be.pxl.computerstore.hardware.builder.ComputerCaseBuilder;
 import be.pxl.computerstore.hardware.builder.MouseBuilder;
 import be.pxl.computerstore.hardware.builder.ProcessorBuilder;
